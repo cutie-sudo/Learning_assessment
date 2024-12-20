@@ -28,7 +28,7 @@ Ease of Use: A straightforward CLI interface designed for administrators, making
 https://onedrive.live.com/edit.aspx?resid=97D3BC2050B6614F!110&cid=97d3bc2050b6614f&CT=1734691955572&OR=ItemsView
 
 Loom link
-
+https://www.loom.com/share/acc40f459bfc4f2c9ef56eee2208b3cf
 
  ### Table Relationships
 Instructors and Courses (One-to-Many Relationship):
